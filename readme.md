@@ -1,6 +1,3 @@
-Here's a complete and professional `README.md` file for your project based on the code analysis:
-
----
 
 # 📚 StudySupport: Smart PDF Assistant with Q\&A, Quizzes, and Google Forms
 
@@ -183,5 +180,3 @@ You may want to add:
 MIT License (add a proper `LICENSE` file if needed)
 
 ---
-
-Let me know if you'd like me to generate the actual `README.md` file content to copy-paste or save it to a file for you.
